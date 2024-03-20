@@ -16,4 +16,4 @@ Enjoy!
 
 # contact
 
-If you have any questions or feeedback, please contact me at: mitchellogbo@gmail.com
+If you have any questions or feeedback, please contact me at: mitchellogbo@gmail.com.
