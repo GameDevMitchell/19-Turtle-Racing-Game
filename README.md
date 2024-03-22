@@ -10,9 +10,18 @@ Open the main.py file and run the program
 # how to play
 
 The game starts with a prompt to place a bet on which turtle you think is going to win
+<img width="377" alt="Screenshot 2024-03-22 204704" src="https://github.com/Mitchell-1406/19-Turtle-Racing-Game/assets/146736445/3ed2ddff-a831-4d99-a2c2-d89b8859062d">
+
+
 Make sure the colour you choose is among the available colours which shows on the prompt
 After placing your bet, watch the turtles race and hope for the best!
 Enjoy!
+
+https://github.com/Mitchell-1406/19-Turtle-Racing-Game/assets/146736445/90d756f0-4ade-4251-818c-cd8ea3c10a94
+
+
+
+
 
 # contact
 
