@@ -8,10 +8,15 @@ tummy = Turtle("turtle")
 temmy = Turtle("turtle")
 tibi = Turtle("turtle")
 screen = Screen()
+screen.title("Turtle race 🏎️🏁")
 screen.setup(width=500, height=400)
 
-user_bet = screen.textinput(title="Place your bet", prompt="Which turtle will win the race? Enter a colour"
-                                                           "(red/orange/yellow/green/blue/purple)")
+
+user_bet = screen.textinput(
+    title="Place your bet",
+    prompt="Which turtle will win the race? Enter a colour"
+    "(red/orange/yellow/green/blue/purple)",
+)
 colours = ["red", "orange", "yellow", "green", "blue", "purple"]
 pos = [-120, -70, -20, 30, 80, 130]
 turtles = [timmy, tammy, tommy, tummy, temmy, tibi]
@@ -42,10 +47,14 @@ while is_race_on:
                 winning_colour2 = winners[1]
                 if winning_colour1 or winning_colour2 == user_bet:
                     print("congrats✨🎉🎉✨")
-                    print(f"The {winning_colour1} and {winning_colour2} turtles are the winner")
+                    print(
+                        f"The {winning_colour1} and {winning_colour2} turtles are the winner"
+                    )
                 else:
                     print("Oops! Bad luck😂")
-                    print(f"The {winning_colour1} and {winning_colour2} turtles are the winner")
+                    print(
+                        f"The {winning_colour1} and {winning_colour2} turtles are the winner"
+                    )
             if winning_colour == user_bet:
                 print("congrats✨🎉🎉✨")
                 print(f"The {winning_colour} turtle is the winner")
