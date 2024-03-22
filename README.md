@@ -19,7 +19,11 @@ Make sure the colour you choose is among the available colours which shows on th
 After placing your bet, watch the turtles race and hope for the best!
 Enjoy!
 
-https://github.com/Mitchell-1406/19-Turtle-Racing-Game/assets/146736445/90d756f0-4ade-4251-818c-cd8ea3c10a94
+
+
+https://github.com/Mitchell-1406/19-Turtle-Racing-Game/assets/146736445/3a511847-bb27-47d5-86f6-88bb038f1917
+
+
 
 
 
